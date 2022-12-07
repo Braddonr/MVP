@@ -51,7 +51,7 @@ This was made for the second milestone project for the full stack developer cour
 11. [**Acknowledgements**](#acknowledgements)
 
 ## Team
-- __Author__ - Rian Sunthbocus
+- __Author__ - Braddon Rotich
 - __Mentor__ - Antonija Šimić
 
 ## UX
